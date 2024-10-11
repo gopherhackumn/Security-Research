@@ -1,6 +1,9 @@
 # Security Research
 > This is a collaborative effort created by GopherHack officers that aims to provide information and educate people about types of cyber attacks, topics, and etc. in the field of Cybersecurity.
 
+# Example
+> I want to write about types of SQL Injection, I propose my idea to the higher-level officers, and get access to this repository following the steps described in the Google Sheets file. From there on, I do my own work and just report back when I have everything setup. The material you have covered could be used by yourself to run a Wednesday meeting or a workshop, if you would like to.
+
 # Audience
 > The audience of this project ranges from people who are unfamiliar with the topic of Cybersecurity to experts in the area who look for more detailed information about a determined topic. 
 
